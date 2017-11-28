@@ -1,4 +1,4 @@
-package org.grekz.leetcode.easy;
+package mx.grekz.leetcode.easy;
 /**
  * https://leetcode.com/problems/reverse-integer/description/
  * @author grekz

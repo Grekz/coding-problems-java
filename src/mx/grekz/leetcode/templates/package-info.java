@@ -5,4 +5,4 @@
  * @author Grekz
  *
  */
-package org.grekz.leetcode.templates;
+package mx.grekz.leetcode.templates;

@@ -1,6 +1,6 @@
-package org.grekz.leetcode.easy;
+package mx.grekz.leetcode.easy;
 
-import org.grekz.leetcode.helpers.TreeNode;
+import mx.grekz.leetcode.helpers.TreeNode;
 
 public class E606_ConstructStringFromBinaryTree {
 	/**

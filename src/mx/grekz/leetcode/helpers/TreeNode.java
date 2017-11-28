@@ -1,4 +1,4 @@
-package org.grekz.leetcode.helpers;
+package mx.grekz.leetcode.helpers;
 
 public class TreeNode {
 	public int val;

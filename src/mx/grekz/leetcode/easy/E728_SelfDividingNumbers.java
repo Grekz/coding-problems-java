@@ -1,4 +1,4 @@
-package org.grekz.leetcode.easy;
+package mx.grekz.leetcode.easy;
 
 import java.util.ArrayList;
 import java.util.List;

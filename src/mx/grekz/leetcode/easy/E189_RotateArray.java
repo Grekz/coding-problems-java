@@ -1,4 +1,4 @@
-package org.grekz.leetcode.easy;
+package mx.grekz.leetcode.easy;
 
 public class E189_RotateArray {
 

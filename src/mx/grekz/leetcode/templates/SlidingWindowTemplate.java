@@ -1,4 +1,4 @@
-package org.grekz.leetcode.templates;
+package mx.grekz.leetcode.templates;
 
 import java.util.HashMap;
 import java.util.LinkedList;
