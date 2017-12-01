@@ -1,3 +1,5 @@
+package mx.grekz.leetcode.easy;
+
 public class E004_MedianofTwoSortedArrays{
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if ( nums1.length > nums2.length )
