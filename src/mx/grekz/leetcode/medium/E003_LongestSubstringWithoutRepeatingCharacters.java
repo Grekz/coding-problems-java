@@ -1,4 +1,4 @@
-package mx.grekz.leetcode.easy;
+package mx.grekz.leetcode.medium;
 
 import java.util.Arrays;
 

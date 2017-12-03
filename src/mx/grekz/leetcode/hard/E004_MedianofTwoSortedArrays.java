@@ -1,4 +1,4 @@
-package mx.grekz.leetcode.easy;
+package mx.grekz.leetcode.hard;
 
 public class E004_MedianofTwoSortedArrays{
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
