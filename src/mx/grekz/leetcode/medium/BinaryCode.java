@@ -88,7 +88,7 @@ import java.util.Arrays;
 
 public class BinaryCode {
 	public static void main(String[] args) {
-		int a[] = new int[2];
+//		int a[] = new int[2];
 		String[] tests = new String[] { "123210120", "11", "123210122",
 				"12221112222221112221111111112221111", "22111", "3" };
 		BinaryCode c = new BinaryCode();

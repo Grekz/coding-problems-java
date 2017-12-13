@@ -136,5 +136,6 @@ public class ScopeChallengeJuanMendoza {
 		for (String x : createSchedule(workshops)) {
 			System.out.println(x);
 		}
+		in.close();
 	}
 }
