@@ -3,7 +3,6 @@ package mx.grekz.leetcode.medium;
 import java.util.Arrays;
 
 public class E016_3SumClosest {
-
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
         int res = nums[0] + nums[1] + nums[2];
