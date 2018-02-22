@@ -2,13 +2,11 @@ package mx.grekz.leetcode.easy;
 
 public class E189_RotateArray {
 
-	/**
-	 * https://leetcode.com/problems/rotate-array/description/
-	 */
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k %= n;
-        if ( nums == null || nums.length < 1 || k == 0 ) return;     
+        if ( nums == null || nums.length < 1 || k == 0 ) return;
+        
         reverse(nums, 0, n-1);
         reverse(nums, 0, k-1);
         reverse(nums, k, n-1);
