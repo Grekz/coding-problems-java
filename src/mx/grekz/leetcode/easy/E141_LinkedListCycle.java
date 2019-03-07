@@ -1,9 +1,9 @@
 package mx.grekz.leetcode.easy;
 
-import mx.grekz.leetcode.helpers.ListNode;
-
+/**
+ * @author grekz
+ */
 public class E141_LinkedListCycle {
-
     public boolean hasCycle(ListNode head) {
         ListNode slow = head, fast = head;
         while (fast != null && fast.next != null){
