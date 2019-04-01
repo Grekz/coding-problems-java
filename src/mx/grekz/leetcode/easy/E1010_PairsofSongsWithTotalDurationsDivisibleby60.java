@@ -3,7 +3,7 @@ package mx.grekz.leetcode.easy;
 /**
  * @author grekz
  */
-public class E1013_PairsofSongsWithTotalDurationsDivisibleby60 {
+public class E1010_PairsofSongsWithTotalDurationsDivisibleby60 {
     public int numPairsDivisibleBy60(int[] time) {
         int res = 0, cnt[] = new int[60];
         for ( int x : time ) {
